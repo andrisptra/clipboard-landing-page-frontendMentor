@@ -18,13 +18,13 @@ body {
 }
 
 .hero {
-    background: url(/images/bg-header-desktop.png);
+    background: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
 
     background-size: cover;
 }
 .hero-mobile {
-    background: url(/images/bg-header-desktop.png);
+    background: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
