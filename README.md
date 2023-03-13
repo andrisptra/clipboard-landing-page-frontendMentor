@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: (https://github.com/andrisptra/clipboard-landing-page-frontendMentor.git)
--   Live Site URL: (https://your-live-site-url.com)
+-   Live Site URL: (https://clipboard-landing-page-frontend-mentor-bice.vercel.app/)
 
 ## My process
 
