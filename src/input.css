@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.button-shadow {
+    box-shadow: 0px -5px 0px -1px rgba(0, 0, 0, 0.24) inset;
+    -webkit-box-shadow: 0px -5px 0px -1px rgba(0, 0, 0, 0.24) inset;
+    -moz-box-shadow: 0px -5px 0px -1px rgba(0, 0, 0, 0.24) inset;
+}
+
+.button-shadow:hover {
+    opacity: 0.8;
+    @apply -translate-y-1;
+}
